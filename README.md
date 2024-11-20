@@ -1,4 +1,4 @@
-# SQL-Customer-Products-Market-Analytics-for-Atliq-Hardware
+# SQL - Customer Products & Market Analytics
 
 
 - Problem Statement and Pre-Invoice Discount Report
